@@ -1,16 +1,26 @@
-## Hi there 👋
+# Angel Guadarrama
+Cybersecurity  student focused on threat detection and network security 
 
-<!--
-**AngeelggzZ/AngeelggzZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About 
+Building practical skills in cybersecurity through hands-on labs and real-world scenarios.
+Focused on analyzing network behavior, identifying suspicious activity, and understanding how attacks work from 
+a defensive perspective.
 
-Here are some ideas to get you started:
+## Skills
+- Network Security
+- Threat Detection
+- Traffic Analysis
+- Linux
+- Python (scripting)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects 
+- # SOC Lab - Network Traffic Analysis
+  Simulated attack scenarios and analysis of network traffic to identify anomalies and suspicious patterns.
+
+  ## Currenty Learning
+  - SIEM Operations (SOC)
+  - SIEM tools
+  - Incident Detection & Response
+ 
+  ## Contact
+  - Email: Angeelggzcontact@gmail.com
