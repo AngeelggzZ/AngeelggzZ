@@ -13,7 +13,7 @@ a defensive perspective.
 - Linux
 - Python (scripting)
 
-# Projects 
+## Projects 
 - ## SOC Lab - Network Traffic Analysis
   Simulated attack scenarios and analysis of network traffic to identify anomalies and suspicious patterns.
 
