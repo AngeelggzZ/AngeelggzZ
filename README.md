@@ -1,4 +1,6 @@
-<h1 align="center">< Angel <span style="color:#39d353">Guadarrama</span> /></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Angel+Guadarrama" />
+</p>
 
 <p align="center">
   Cybersecurity focused on <a href="#"><code>threat detection</code></a> and <a href="#"><code>network security</code></a>.
