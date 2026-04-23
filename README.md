@@ -38,11 +38,11 @@
 <tr>
 <td>
 
-### 🟢 [SOC Lab - Network Traffic Analysis](https://github.com/AngeelggzZ/network-traffic-lab)
+### [SOC Lab - Network Traffic Analysis](https://github.com/AngeelggzZ/network-traffic-lab)
 
 Simulated attack scenarios and analysis of network traffic to identify anomalies, suspicious patterns, and potential threats.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp;⭐ 1
+
 
 </td>
 </tr>
@@ -52,10 +52,10 @@ Simulated attack scenarios and analysis of network traffic to identify anomalies
 
 ## `📖` Currently Developing
 
-🟢 &nbsp;SIEM Operations (SOC)  
-🟢 &nbsp;SIEM tools  
-🟢 &nbsp;Incident Detection & Response  
-🟢 &nbsp;Python automation for security tasks  
+&nbsp;SIEM Operations (SOC)  
+&nbsp;SIEM tools  
+&nbsp;Incident Detection & Response  
+&nbsp;Python automation for security tasks  
 
 ---
 
