@@ -1,14 +1,8 @@
-<h1 align="center">
-  &lt; Angel <span style="color:#39d353">Guadarrama</span> /&gt;
-</h1>
-<p align="center">
-  Cybersecurity focused on <strong>threat detection</strong> and <strong>network security</strong>
+<h1 align="center">< Angel <span style="color:#39d353">Guadarrama</span> /></h1><p align="center">
+  Cybersecurity focused on <a href="#"><code>threat detection</code></a> and <a href="#"><code>network security</code></a>.
+</p><p align="center">
+  <img src="https://img.shields.io/badge/🛡️ CYBERSECURITY-0d1117?style=flat-square&logo=shieldsdotio&logoColor=white&labelColor=161b22&color=161b22"/>
+  <img src="https://img.shields.io/badge/👥 SOC OPERATIONS-0d1117?style=flat-square&labelColor=1f3a5f&color=1f3a5f"/>
+  <img src="https://img.shields.io/badge/🔗 NETWORK SECURITY-39d353?style=flat-square&labelColor=1a3a1a&color=1a4d1a"/>
+  <img src="https://img.shields.io/badge/🎯 THREAT DETECTION-0d1117?style=flat-square&labelColor=2d2d2d&color=2d2d2d"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/CYBERSECURITY-0A192F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SOC%20OPERATIONS-1F6FEB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NETWORK-2EA44F?style=for-the-badge"/>
-</p>
-angel@kali:~$ whoami
-Angel Guadarrama
-Cybersecurity | SOC Path
