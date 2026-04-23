@@ -56,7 +56,7 @@ angel@kali:~$ ls projects/
       <code>Simulated attack scenarios and analysis of network traffic to identify anomalies, suspicious patterns, and potential threats.</code>
       <br/><br/>
       
-    </td>
+  </td>
   </tr>
 </table>
 
