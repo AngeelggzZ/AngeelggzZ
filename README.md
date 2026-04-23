@@ -52,11 +52,10 @@ angel@kali:~$ ls projects/
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/AngeelggzZ/network-traffic-lab">SOC Lab – Network Traffic Analysis</a></h3>
+      <h3><a href="https://github.com/AngeelggzZ/network-traffic-lab-">SOC Lab – Network Traffic Analysis</a></h3>
       <code>Simulated attack scenarios and analysis of network traffic to identify anomalies, suspicious patterns, and potential threats.</code>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117&color=0d1117"/>
-      &nbsp;⭐ 1
+      
     </td>
   </tr>
 </table>
@@ -81,15 +80,10 @@ angel@kali:~$ █
 ## `>_` Reachable At
 
 <p align="center">
-  <a href="mailto:angelggz.contact@gmail.com">
+  <a href="mailto:angelggzcontact@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-angelggz.contact-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117&color=0d1117"/>
   </a>
-  <a href="https://linkedin.com/in/angeelggzz">
-    <img src="https://img.shields.io/badge/LinkedIn-AngeelggzZ-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=0d1117"/>
-  </a>
-  <a href="https://github.com/AngeelggzZ">
-    <img src="https://img.shields.io/badge/GitHub-AngeelggzZ-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117&color=0d1117"/>
-  </a>
+  
 </p>
 
 ---
