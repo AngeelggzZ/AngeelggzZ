@@ -80,8 +80,8 @@ angel@kali:~$ █
 ## `>_` Reachable At
 
 <p align="center">
-  <a href="mailto:angelggzcontact@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-angelggz.contact-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117&color=0d1117"/>
+  <a href="mailto:angeelggzcontact@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-angeelggzcontact-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117&color=0d1117"/>
   </a>
   
 </p>
