@@ -6,3 +6,6 @@
   <img src="https://img.shields.io/badge/🔗 NETWORK SECURITY-39d353?style=flat-square&labelColor=1a3a1a&color=1a4d1a"/>
   <img src="https://img.shields.io/badge/🎯 THREAT DETECTION-0d1117?style=flat-square&labelColor=2d2d2d&color=2d2d2d"/>
 </p>
+
+>_ About
+   Building practical skills in cybersecurity through hands-on labs and real-world scenarios. Focused on analyzing network behavior, identifying suspicious activity, and understanding how attacks work from a defensive perspective.
