@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=100&section=header&text=%3C%20Angel%20Guadarrama%20/%3E&fontColor=39d353&fontSize=30&fontAlign=50&fontAlignY=50" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%3C+Angel+%1B%5B32mGuadarrama%1B%5B0m+%2F%3E" />
 </p>
 
 <p align="center">
