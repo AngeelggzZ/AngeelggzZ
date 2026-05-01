@@ -60,6 +60,18 @@ angel@kali:~$ ls projects/
   </tr>
 </table>
 
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/AngeelggzZ/linux-threat-detection-lab.git">SOC Lab – Linux Threath Detection </a></h3>
+      <code>Practical lab for analyzin Linux logs and identifying Linux system logs (journalctl).</code>
+      <br/><br/>
+      
+  </td>
+  </tr>
+</table>
+
 ---
 
 ## `>_` Currently Developing
